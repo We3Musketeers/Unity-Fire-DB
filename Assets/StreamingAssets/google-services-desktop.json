@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "966974181900",
+    "firebase_url": "https://estimoteindoor.firebaseio.com",
+    "project_id": "estimoteindoor",
+    "storage_bucket": "estimoteindoor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966974181900:android:bc7b46b8bf54c09f",
+        "android_client_info": {
+          "package_name": "com.estimote.indoorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966974181900-la6e8ofl9h1ul0ml7sidc07suhun9lit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estimote.indoorapp",
+            "certificate_hash": "0a9b465adc2cb15baae1e67f90db3c922db8de4a"
+          }
+        },
+        {
+          "client_id": "966974181900-hlog97njtrctu2ei17sdfh7uom27krgg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estimote.indoorapp",
+            "certificate_hash": "01e821637210aadf2f77c8164d7368a9a4555c1a"
+          }
+        },
+        {
+          "client_id": "966974181900-cboqlser91hfnbp41p9s9vroj2qap4b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV1k977P1obK-qmsZTcna6vK0AZ8H97A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966974181900-cboqlser91hfnbp41p9s9vroj2qap4b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966974181900:android:d10c36b0fd165e41",
+        "android_client_info": {
+          "package_name": "com.hci.dv.estimoteindoorjavatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966974181900-5g9qkrjqc2pj0u6p4ss783jovhq6eqnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hci.dv.estimoteindoorjavatest",
+            "certificate_hash": "01e821637210aadf2f77c8164d7368a9a4555c1a"
+          }
+        },
+        {
+          "client_id": "966974181900-cboqlser91hfnbp41p9s9vroj2qap4b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV1k977P1obK-qmsZTcna6vK0AZ8H97A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966974181900-cboqlser91hfnbp41p9s9vroj2qap4b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966974181900:android:e54a70d5e493905b",
+        "android_client_info": {
+          "package_name": "com.hci.dv.unityfiredb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966974181900-cboqlser91hfnbp41p9s9vroj2qap4b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV1k977P1obK-qmsZTcna6vK0AZ8H97A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
